@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Me chamo Kayky.<br>
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-🎓 Estudando Ciências da Computação na FEI.
-🌱 Aprendendo mais sobre diversos campos da programação e tecnologia.
+  Olá! Prazer, Kayky.<br>
+    <p>🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+    <p>🎓 Estudando Ciências da Computação na FEI.</p>
+    <p>🌱 Aprendendo mais sobre diversos campos da programação e tecnologia.</p>
 </p>
 
 <p align="left">
@@ -38,14 +38,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=KaykyyPiress&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyyPiress&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -53,7 +53,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=KaykyyPiress&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -71,7 +71,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=KaykyyPiress&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -84,7 +84,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/KaykyyPiress/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
