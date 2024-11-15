@@ -1,54 +1,90 @@
-# 👋 Olá, eu sou Kayky!
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  🎓 Estudante de Ciência da Computação no Centro Universitário FEI.  
-  🌱 Atualmente focado em desenvolvimento de projetos interativos, estrutura de dados e React Native.  
+  Olá! Me chamo Kayky.<br>
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+🎓 Estudando Ciências da Computação na FEI.
+🌱 Aprendendo mais sobre diversos campos da programação e tecnologia.
 </p>
 
----
-
-## 🛠️ Stack  
 <p align="left">
-  🦄 **Linguagens:**  
-  [![My Skills](https://skillicons.dev/icons?i=c,python,javascript)](https://skillicons.dev)  
-
-  💼 **Ferramentas:**  
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)  
-
-  🗄️ **Frameworks e Bancos de Dados:**  
-  [![My Skills](https://skillicons.dev/icons?i=react,firebase)](https://skillicons.dev)  
+  🦄 Linguagens: **[Python, JavaScript, CSS, HTML, ASSEMBLY, C]**
 </p>
 
----
-
-## 📌 Projetos Recentes  
-- **[Lanchonete Mineira](https://github.com/KaykyyPiress/Lanchonete-Mineira):** Sistema de gerenciamento de pedidos interativo.  
-- **Fechadura Digital:** Simulação com LCD, LEDs e motores.  
-- **Gerenciador de Atendimento Médico:** Gestão de dados usando pilhas, filas e árvores binárias.  
-
----
-
-## 📫 Contato  
-
-💌 **Fale comigo:**  
 <p align="left">
-  <a href="mailto:kaykyy.piress@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:kaykyy.piress@gmail.com" alt="Gmail"/>
+  💼 Ferramentas: **[VSCode, Git, Replit]**
+</p>
+
+<p align="left">
+  💌 Se quiser entrar em contato comigo, é só acessar os links abaixo: ⤵️
+</p>
+
+<p align="left">
+  <a href="kaykyypiress@gmail.com title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuperfil" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seuperfil" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kayky-pires/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/SEUNUMERO" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/SEUNUMERO" alt="WhatsApp"/>
+  <a href="https://instagram.com/K_4_Y_K_Y" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
   </a>
 </p>
 
 ---
 
-![Kayky Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=KaykyyPiress&show_icons=true&theme=dark)
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
----
-
-Fique à vontade para explorar meus projetos e colaborar. Estou sempre aberto a novas ideias e parcerias! 😊
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
