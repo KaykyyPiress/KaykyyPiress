@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **[Python, JavaScript, CSS, HTML, ASSEMBLY, C]**
+  🦄 Linguagens: **[Python, JavaScript, CSS, HTML, ASSEMBLY, C, SQL]**
 </p>
 
 <p align="left">
